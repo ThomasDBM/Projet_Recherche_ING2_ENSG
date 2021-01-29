@@ -13,7 +13,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 
 #execution de code_visu_ephemeride pour pouvoir obtenir les coordonnées des satellites à l'heure voulue
-exec(open("code ephemeride elliott/code_visu_ephemeride.py").read()) # attention au chemin
+exec(open("code ephemeride elliott/Position_satellites.py").read()) # attention au chemin
 
 
 #ouverture du fichier obtenu apres conversion dans Circé
